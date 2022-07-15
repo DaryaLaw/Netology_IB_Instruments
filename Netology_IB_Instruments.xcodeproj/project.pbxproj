@@ -75,6 +75,7 @@
 				4B6EF9B72880411B007C6648 /* Assets.xcassets */,
 				4B6EF9B92880411B007C6648 /* LaunchScreen.storyboard */,
 				4B6EF9BC2880411B007C6648 /* Info.plist */,
+
 			);
 			path = Netology_IB_Instruments;
 			sourceTree = "<group>";
@@ -82,6 +83,7 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+
 		4B6EF9AA28804119007C6648 /* Netology_IB_Instruments */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4B6EF9BF2880411B007C6648 /* Build configuration list for PBXNativeTarget "Netology_IB_Instruments" */;
@@ -89,6 +91,7 @@
 				4B6EF9A728804119007C6648 /* Sources */,
 				4B6EF9A828804119007C6648 /* Frameworks */,
 				4B6EF9A928804119007C6648 /* Resources */,
+
 			);
 			buildRules = (
 			);
@@ -96,25 +99,33 @@
 			);
 			name = Netology_IB_Instruments;
 			productName = Netology_IB_Instruments;
-			productReference = 4B6EF9AB28804119007C6648 /* Netology_IB_Instruments.app */;
+
+			productReference = 4B6EF96B28803C9F007C6648 /* Netology_IB_Instruments.app */;
+
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
+
 		4B6EF9A328804119007C6648 /* Project object */ = {
+
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
 				LastUpgradeCheck = 1330;
 				TargetAttributes = {
-					4B6EF9AA28804119007C6648 = {
+
+					4B6EF96A28803C9F007C6648 = {
+
 						CreatedOnToolsVersion = 13.3.1;
 					};
 				};
 			};
+
 			buildConfigurationList = 4B6EF9A628804119007C6648 /* Build configuration list for PBXProject "Netology_IB_Instruments" */;
+
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,18 +133,21 @@
 				en,
 				Base,
 			);
+
 			mainGroup = 4B6EF9A228804119007C6648;
 			productRefGroup = 4B6EF9AC28804119007C6648 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				4B6EF9AA28804119007C6648 /* Netology_IB_Instruments */,
+
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4B6EF9A928804119007C6648 /* Resources */ = {
+
+		4B6EF96928803C9F007C6648 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -148,7 +162,8 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4B6EF9A728804119007C6648 /* Sources */ = {
+
+		4B6EF96728803C9F007C6648 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -163,18 +178,22 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		4B6EF9B428804119007C6648 /* Main.storyboard */ = {
+
+		4B6EF97428803C9F007C6648 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4B6EF9B528804119007C6648 /* Base */,
+				4B6EF97528803C9F007C6648 /* Base */,
+
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4B6EF9B92880411B007C6648 /* LaunchScreen.storyboard */ = {
+
+		4B6EF97928803CA1007C6648 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4B6EF9BA2880411B007C6648 /* Base */,
+				4B6EF97A28803CA1007C6648 /* Base */,
+
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -182,7 +201,9 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4B6EF9BD2880411B007C6648 /* Debug */ = {
+
+		4B6EF97D28803CA1007C6648 /* Debug */ = {
+
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -242,7 +263,9 @@
 			};
 			name = Debug;
 		};
-		4B6EF9BE2880411B007C6648 /* Release */ = {
+
+		4B6EF97E28803CA1007C6648 /* Release */ = {
+
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -296,7 +319,9 @@
 			};
 			name = Release;
 		};
-		4B6EF9C02880411B007C6648 /* Debug */ = {
+
+		4B6EF98028803CA1007C6648 /* Debug */ = {
+
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -323,7 +348,9 @@
 			};
 			name = Debug;
 		};
-		4B6EF9C12880411B007C6648 /* Release */ = {
+
+		4B6EF98128803CA1007C6648 /* Release */ = {
+
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -353,20 +380,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4B6EF9A628804119007C6648 /* Build configuration list for PBXProject "Netology_IB_Instruments" */ = {
+
+		4B6EF96628803C9F007C6648 /* Build configuration list for PBXProject "Netology_IB_Instruments" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4B6EF9BD2880411B007C6648 /* Debug */,
-				4B6EF9BE2880411B007C6648 /* Release */,
+				4B6EF97D28803CA1007C6648 /* Debug */,
+				4B6EF97E28803CA1007C6648 /* Release */,
+
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B6EF9BF2880411B007C6648 /* Build configuration list for PBXNativeTarget "Netology_IB_Instruments" */ = {
+
+		4B6EF97F28803CA1007C6648 /* Build configuration list for PBXNativeTarget "Netology_IB_Instruments" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4B6EF9C02880411B007C6648 /* Debug */,
-				4B6EF9C12880411B007C6648 /* Release */,
+				4B6EF98028803CA1007C6648 /* Debug */,
+				4B6EF98128803CA1007C6648 /* Release */,
+
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
